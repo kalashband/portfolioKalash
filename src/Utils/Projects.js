@@ -16,7 +16,7 @@ export const projects = [
       "React application that allows users to enter a postal code and fetch information about that location.Enter you POSTAL code you'll get POSTAL location.",
     demo: "",
     live:
-      "https://zip-code-info-beta.vercel.app/",
+      "https://postalcode.vercel.app/",
     gitHub: "https://github.com/kalashband/ZipCodeInfo.git",
     technologies: ["JavaScript", "HTML", "CSS", "React"]
   }
